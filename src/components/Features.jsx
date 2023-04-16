@@ -5,14 +5,13 @@ const Features = () => {
   return (
     <>
       <div className="features">
-        <h2>Features</h2>
         <div className="feature-items">
           <Card
             bg={"info"}
             style={{
               width: "18rem",
               textAlign: "center",
-              background: "#5cb8ff",
+              background: "#d5dae4",
               color: "black",
             }}
             className="mb-2"
@@ -27,7 +26,7 @@ const Features = () => {
               width: "18rem",
               textAlign: "center",
               color: "black",
-              background: "#5cb8ff",
+              background: "#8fc5ee",
             }}
             className="mb-2"
           >
@@ -41,7 +40,7 @@ const Features = () => {
               width: "18rem",
               textAlign: "center",
               color: "black",
-              background: "#5cb8ff",
+              background: "#8fc5ee",
             }}
             className="mb-2"
           >
